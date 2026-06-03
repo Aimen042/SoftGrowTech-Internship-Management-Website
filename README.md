@@ -5,23 +5,23 @@ A modern full-stack Internship Management System built using React.js, Node.js, 
 ## 📸 Preview
 
 <p align="center">
-  <img src="screenshots/Landing_Page.png" width="45%" alt="Landing Page" />
-  <img src="screenshots/Login_Page.png" width="45%" alt="Login Page" />
+  <img src="screenshots/Landing Page.png" width="45%" alt="Landing Page" />
+  <img src="screenshots/Login Page.png" width="45%" alt="Login Page" />
 </p>
 
 <p align="center">
-  <img src="screenshots/Signup_Page.png" width="45%" alt="Signup Page" />
-  <img src="screenshots/Admin_Dashboard.png" width="45%" alt="Admin Dashboard" />
+  <img src="screenshots/Signup Page.png" width="45%" alt="Signup Page" />
+  <img src="screenshots/Admin Dashboard.png" width="45%" alt="Admin Dashboard" />
 </p>
 
 <p align="center">
-  <img src="screenshots/Student_Dashboard.png" width="45%" alt="Student Dashboard" />
-  <img src="screenshots/Tasks_Upload.png" width="45%" alt="Tasks Upload" />
+  <img src="screenshots/Student Dashboard.png" width="45%" alt="Student Dashboard" />
+  <img src="screenshots/Tasks Upload.png" width="45%" alt="Tasks Upload" />
 </p>
 
 <p align="center">
-  <img src="screenshots/Submission_View_by_Admin.png" width="45%" alt="Admin Submissions" />
-  <img src="screenshots/Submission_View_by_Student.png" width="45%" alt="Student Submissions" />
+  <img src="screenshots/Submission View by Admin.png" width="45%" alt="Admin Submissions" />
+  <img src="screenshots/Submission View by Student.png" width="45%" alt="Student Submissions" />
 </p>
 
 # Features
