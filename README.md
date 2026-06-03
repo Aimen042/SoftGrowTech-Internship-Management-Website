@@ -23,11 +23,6 @@ A modern full-stack Internship Management System built using React.js, Node.js, 
   <img src="screenshots/Admin Dashboard.png" width="45%" alt="Admin Dashboard" />
 </p>
 
-<p align="center">
-  <img src="screenshots/Landing Page.png" width="45%" alt="Landing Page" />
-</p>
-
-
 # Features
 
 ## Student Features
