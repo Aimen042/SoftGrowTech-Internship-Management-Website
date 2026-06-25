@@ -5,7 +5,7 @@ A modern full-stack Internship Management System built using React.js, Node.js, 
 ## 📸 Architectural Design
 
 <p align="center">
-  <img src="screenshots/Architectural Diagram.png" width="45%" alt="Architectural Design" />
+  <img src="screenshots/Architectural Diagram.png" width="60%" alt="Architectural Design" />
 </p>
 
 ## 📸 Preview
