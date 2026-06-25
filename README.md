@@ -2,6 +2,12 @@
 
 A modern full-stack Internship Management System built using React.js, Node.js, Express.js, and SQL Server. The platform allows students to upload internship tasks while administrators can review, approve, and manage submissions through a responsive dashboard interface.
 
+## 📸 Architectural Design
+
+<p align="center">
+  <img src="screenshots/Architectural Diagram.png" width="45%" alt="Architectural Design" />
+</p>
+
 ## 📸 Preview
 
 <p align="center">
